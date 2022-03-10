@@ -47,8 +47,7 @@ public class Tugas2 {
         nama.removeFirst();
         nama.removeFirst();
         System.out.println("data setelah di remove : " + nama);
-        // remove skip 1 index
-
+        
         // push (tambah di awal)
         nama.push('s');
         nama.push('M');
